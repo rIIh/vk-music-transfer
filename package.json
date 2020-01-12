@@ -1,0 +1,15 @@
+{
+  "name": "vkmusictransfer",
+  "version": "1.0.0",
+  "description": "Simple script for music transfer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ratiih",
+  "license": "MIT",
+  "dependencies": {
+    "easyvk": "^2.5.11",
+    "inquirer": "^7.0.3"
+  }
+}
